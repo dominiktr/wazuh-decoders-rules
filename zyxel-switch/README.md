@@ -14,6 +14,9 @@ Wazuh detection content for **Zyxel XS3800** and compatible Zyxel managed switch
 | `decoders/0600-zyxel-switch_decoders.xml` | Log decoders for all supported facilities |
 | `rules/0600-zyxel-switch_rules.xml` | Detection rules with compliance mappings |
 
+> **Note:** Coverage is based on logs observed during real-world testing on the listed hardware.
+> Some log variants may not be covered by these decoders.
+
 ---
 
 ## Supported Facilities
